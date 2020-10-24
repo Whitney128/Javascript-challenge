@@ -3,7 +3,6 @@ var tableData = data;
 console.log(tableData);
 
 var tbody = d3.select("tbody");
-//form.on("submit", runEnter);
 
 tableData.forEach(function(ufosighting) {
 	console.log(ufosighting);
