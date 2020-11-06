@@ -20,7 +20,6 @@ button.on("click", runEnter);
 
 function runEnter() {
 
-	//d3.event.preventDefault();
 	tbody.html('');
 
 	var inputelement = d3.select("#datetime");
