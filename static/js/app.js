@@ -36,10 +36,13 @@ function runEnter() {
 	filteredData = tableData.filter(ufosighting => ufosighting.datetime === inputvalue);
 	console.log(filteredData);
 
+	//filter data
 	filteredData.forEach(function(ufosighting) {
 		console.log(ufosighting);
+		//append tbody
 		var row = tbody.append("tr");
 
+		//object.entries for key, values
 		Object.entries(ufosighting).forEach(function([key, value]) {
 			console.log(key, value);
 			var cell = row.append("td")
