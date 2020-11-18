@@ -4,9 +4,13 @@ Aliens are real! This is a collection of data from eye-witness reports to prove 
 Using the webpage that has been built we will see where and when these sightings have occcured.
 
 Technology:
+
 •	JavaScript
+
 •	HTML
+
 •	CSS
+
 •	D3.js
 
 Useability
