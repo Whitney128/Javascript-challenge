@@ -36,3 +36,8 @@ A few examples consist of circles, triangles, formations, spheres, disk
 while other ones were considered shapes are lights and fireballs.
 
 Webpage link- https://whitney128.github.io/UFO-Finder/
+
+
+![image](https://user-images.githubusercontent.com/66101341/101558836-0e630e00-397d-11eb-818d-573e91d30110.png)
+
+![image](https://user-images.githubusercontent.com/66101341/101558890-26d32880-397d-11eb-81ec-e5a9f8ca2398.png)
